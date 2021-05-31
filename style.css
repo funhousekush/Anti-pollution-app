@@ -1,0 +1,25 @@
+body
+{
+    background-color: red;
+    color: green;
+}
+button
+{
+    font-size: large;
+}
+#button-pollution
+{
+    background-color: royalblue;
+}
+#Water-pollution
+{
+    background-color: rgb(201, 225, 65);
+}
+#Air-pollution
+{
+    background-color: rgb(65, 225, 132);
+}
+#Soil-pollution
+{
+    background-color: rgb(255, 255, 255);
+}
